@@ -1,0 +1,6 @@
+#Establezco el directorio de trabajo
+setwd("C:/Prorud/ENIG")
+
+#Se extrae la base de datos de la Encuesta de Ingresos y Gastos del INEC
+#Libreria para leer archivos de SPSS
+library(haven)
